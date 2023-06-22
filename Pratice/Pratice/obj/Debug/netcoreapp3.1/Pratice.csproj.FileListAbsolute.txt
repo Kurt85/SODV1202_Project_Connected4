@@ -1,0 +1,14 @@
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\bin\Debug\netcoreapp3.1\Pratice.exe
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\bin\Debug\netcoreapp3.1\Pratice.deps.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\bin\Debug\netcoreapp3.1\Pratice.runtimeconfig.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\bin\Debug\netcoreapp3.1\Pratice.runtimeconfig.dev.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\bin\Debug\netcoreapp3.1\Pratice.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\bin\Debug\netcoreapp3.1\Pratice.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\obj\Debug\netcoreapp3.1\Pratice.csproj.AssemblyReference.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\obj\Debug\netcoreapp3.1\Pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\obj\Debug\netcoreapp3.1\Pratice.AssemblyInfoInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\obj\Debug\netcoreapp3.1\Pratice.AssemblyInfo.cs
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\obj\Debug\netcoreapp3.1\Pratice.csproj.CoreCompileInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\obj\Debug\netcoreapp3.1\Pratice.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\obj\Debug\netcoreapp3.1\Pratice.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Pratice\Pratice\obj\Debug\netcoreapp3.1\Pratice.genruntimeconfig.cache

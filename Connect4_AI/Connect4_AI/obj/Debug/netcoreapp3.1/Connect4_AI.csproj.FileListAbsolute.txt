@@ -1,0 +1,14 @@
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\bin\Debug\netcoreapp3.1\Connect4_AI.exe
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\bin\Debug\netcoreapp3.1\Connect4_AI.deps.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\bin\Debug\netcoreapp3.1\Connect4_AI.runtimeconfig.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\bin\Debug\netcoreapp3.1\Connect4_AI.runtimeconfig.dev.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\bin\Debug\netcoreapp3.1\Connect4_AI.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\bin\Debug\netcoreapp3.1\Connect4_AI.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\obj\Debug\netcoreapp3.1\Connect4_AI.csproj.AssemblyReference.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\obj\Debug\netcoreapp3.1\Connect4_AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\obj\Debug\netcoreapp3.1\Connect4_AI.AssemblyInfoInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\obj\Debug\netcoreapp3.1\Connect4_AI.AssemblyInfo.cs
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\obj\Debug\netcoreapp3.1\Connect4_AI.csproj.CoreCompileInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\obj\Debug\netcoreapp3.1\Connect4_AI.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\obj\Debug\netcoreapp3.1\Connect4_AI.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\Connect4_AI\Connect4_AI\obj\Debug\netcoreapp3.1\Connect4_AI.genruntimeconfig.cache

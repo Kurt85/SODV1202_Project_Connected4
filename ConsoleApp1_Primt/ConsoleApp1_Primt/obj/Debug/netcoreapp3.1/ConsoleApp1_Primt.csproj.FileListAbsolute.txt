@@ -1,0 +1,14 @@
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\bin\Debug\netcoreapp3.1\ConsoleApp1_Primt.exe
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\bin\Debug\netcoreapp3.1\ConsoleApp1_Primt.deps.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\bin\Debug\netcoreapp3.1\ConsoleApp1_Primt.runtimeconfig.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\bin\Debug\netcoreapp3.1\ConsoleApp1_Primt.runtimeconfig.dev.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\bin\Debug\netcoreapp3.1\ConsoleApp1_Primt.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\bin\Debug\netcoreapp3.1\ConsoleApp1_Primt.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\obj\Debug\netcoreapp3.1\ConsoleApp1_Primt.csproj.AssemblyReference.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\obj\Debug\netcoreapp3.1\ConsoleApp1_Primt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\obj\Debug\netcoreapp3.1\ConsoleApp1_Primt.AssemblyInfoInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\obj\Debug\netcoreapp3.1\ConsoleApp1_Primt.AssemblyInfo.cs
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\obj\Debug\netcoreapp3.1\ConsoleApp1_Primt.csproj.CoreCompileInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\obj\Debug\netcoreapp3.1\ConsoleApp1_Primt.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\obj\Debug\netcoreapp3.1\ConsoleApp1_Primt.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp1_Primt\ConsoleApp1_Primt\obj\Debug\netcoreapp3.1\ConsoleApp1_Primt.genruntimeconfig.cache

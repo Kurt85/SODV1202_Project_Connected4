@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\kurt8\OneDrive\桌面\ExceptionHandling.cs" Link="ExceptionHandling.cs" />
+  </ItemGroup>
+
+</Project>

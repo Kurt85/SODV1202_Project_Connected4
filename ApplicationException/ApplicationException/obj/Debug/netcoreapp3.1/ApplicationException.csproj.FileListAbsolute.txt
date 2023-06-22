@@ -1,0 +1,14 @@
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\bin\Debug\netcoreapp3.1\ApplicationException.exe
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\bin\Debug\netcoreapp3.1\ApplicationException.deps.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\bin\Debug\netcoreapp3.1\ApplicationException.runtimeconfig.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\bin\Debug\netcoreapp3.1\ApplicationException.runtimeconfig.dev.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\bin\Debug\netcoreapp3.1\ApplicationException.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\bin\Debug\netcoreapp3.1\ApplicationException.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\obj\Debug\netcoreapp3.1\ApplicationException.csproj.AssemblyReference.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\obj\Debug\netcoreapp3.1\ApplicationException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\obj\Debug\netcoreapp3.1\ApplicationException.AssemblyInfoInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\obj\Debug\netcoreapp3.1\ApplicationException.AssemblyInfo.cs
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\obj\Debug\netcoreapp3.1\ApplicationException.csproj.CoreCompileInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\obj\Debug\netcoreapp3.1\ApplicationException.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\obj\Debug\netcoreapp3.1\ApplicationException.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ApplicationException\ApplicationException\obj\Debug\netcoreapp3.1\ApplicationException.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

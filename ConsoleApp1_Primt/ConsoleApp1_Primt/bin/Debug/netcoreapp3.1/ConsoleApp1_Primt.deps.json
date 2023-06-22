@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp1_Primt/1.0.0": {
+        "runtime": {
+          "ConsoleApp1_Primt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1_Primt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

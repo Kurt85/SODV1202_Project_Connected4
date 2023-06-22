@@ -1,0 +1,14 @@
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\bin\Debug\netcoreapp3.1\ConsoleApp_Assignment2.exe
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\bin\Debug\netcoreapp3.1\ConsoleApp_Assignment2.deps.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\bin\Debug\netcoreapp3.1\ConsoleApp_Assignment2.runtimeconfig.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\bin\Debug\netcoreapp3.1\ConsoleApp_Assignment2.runtimeconfig.dev.json
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\bin\Debug\netcoreapp3.1\ConsoleApp_Assignment2.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\bin\Debug\netcoreapp3.1\ConsoleApp_Assignment2.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\obj\Debug\netcoreapp3.1\ConsoleApp_Assignment2.csproj.AssemblyReference.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\obj\Debug\netcoreapp3.1\ConsoleApp_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\obj\Debug\netcoreapp3.1\ConsoleApp_Assignment2.AssemblyInfoInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\obj\Debug\netcoreapp3.1\ConsoleApp_Assignment2.AssemblyInfo.cs
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\obj\Debug\netcoreapp3.1\ConsoleApp_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\obj\Debug\netcoreapp3.1\ConsoleApp_Assignment2.dll
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\obj\Debug\netcoreapp3.1\ConsoleApp_Assignment2.pdb
+C:\Users\kurt8\source\repos\SODV1202_Project_Connected4\ConsoleApp_Assignment2\ConsoleApp_Assignment2\obj\Debug\netcoreapp3.1\ConsoleApp_Assignment2.genruntimeconfig.cache

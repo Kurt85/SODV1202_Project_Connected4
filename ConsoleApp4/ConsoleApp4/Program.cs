@@ -16,7 +16,7 @@ namespace Connect4
             int column;
             do
             {
-
+                
                 Console.Write($"{Name}, choose a column to drop your piece (1-7), or press 'ESC' to exit: ");
                 var key = Console.ReadKey(true);
 
@@ -112,7 +112,7 @@ namespace Connect4
 
         public bool IsValidMove(int column)
         {
-
+            
             return column >= 0 && column < 7 && board[0, column] == 0;
         }
 
@@ -281,9 +281,9 @@ namespace Connect4
             Console.WriteLine(@" \______| \______/  |__| \__| |__| \__| |_______| \______|    |__|           |_|   ");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
-            Console.WriteLine("Please enter the number for selecting the gameplay mode:");
-            Console.WriteLine("Mode: 1 (Human vs. Human)");
-            Console.WriteLine("Mode: 2 (Human vs. Computer)");
+            Console.WriteLine("Please choose the player mode:");
+            Console.WriteLine("1. Human vs. Human");
+            Console.WriteLine("2. Human vs. Computer");
 
             int modeChoice;
             do
@@ -316,7 +316,7 @@ namespace Connect4
 
             while (!isGameOver)
             {
-                //Console.Clear();// drawing a new board with latest gaming progress
+                Console.Clear();
                 connect4.DrawBoard();
 
                 if (currentPlayer == aiPlayer && againstAI)
@@ -341,7 +341,7 @@ namespace Connect4
                     {
                         Console.Clear();
                         connect4.DrawBoard();
-                        Console.WriteLine("\nDraw!");
+                        Console.WriteLine("\nIt's a tie!");
                         isGameOver = true;
                     }
                     else

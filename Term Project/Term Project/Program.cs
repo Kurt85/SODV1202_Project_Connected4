@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Connect4
 {
@@ -316,7 +316,7 @@ namespace Connect4
 
             while (!isGameOver)
             {
-                //Console.Clear();// drawing a new board with latest gaming progress
+                Console.Clear();// clear previous game board for printing the latest gema progress 
                 connect4.DrawBoard();
 
                 if (currentPlayer == aiPlayer && againstAI)
@@ -341,7 +341,7 @@ namespace Connect4
                     {
                         Console.Clear();
                         connect4.DrawBoard();
-                        Console.WriteLine("\nDraw!");
+                        Console.WriteLine("\nIt's a tie!");
                         isGameOver = true;
                     }
                     else

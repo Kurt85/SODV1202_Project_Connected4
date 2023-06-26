@@ -16,7 +16,7 @@ namespace Connect4
             int column;
             do
             {
-
+                
                 Console.Write($"{Name}, choose a column to drop your piece (1-7), or press 'ESC' to exit: ");
                 var key = Console.ReadKey(true);
 
@@ -112,7 +112,7 @@ namespace Connect4
 
         public bool IsValidMove(int column)
         {
-
+            
             return column >= 0 && column < 7 && board[0, column] == 0;
         }
 
@@ -264,7 +264,152 @@ namespace Connect4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Connect4Game connect4 = new Connect4Game();
+            connect4.board = new int[6, 7];
+
+            int currentPlayer = 1;
+            int aiPlayer = 2;
+            bool isGameOver = false;
+            bool againstAI = false;
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine("Welcome to");
+            Console.WriteLine(@"  ______   ______   .__   __. .__   __.  _______   ______ .___________.    _  _    ");
+            Console.WriteLine(@" /      | /  __  \  |  \ |  | |  \ |  | |   ____| /      ||           |   | || |   ");
+            Console.WriteLine(@"|  ,----'|  |  |  | |   \|  | |   \|  | |  |__   |  ,----'`---|  |----`   | || |_  ");
+            Console.WriteLine(@"|  |     |  |  |  | |  . `  | |  . `  | |   __|  |  |         |  |        |__   _| ");
+            Console.WriteLine(@"|  `----.|  `--'  | |  |\   | |  |\   | |  |____ |  `----.    |  |           | |   ");
+            Console.WriteLine(@" \______| \______/  |__| \__| |__| \__| |_______| \______|    |__|           |_|   ");
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine();
+            Console.WriteLine("Please enter the number for selecting the gameplay mode:");
+            Console.WriteLine("Mode: 1 (Human vs. Human)");
+            Console.WriteLine("Mode: 2 (Human vs. Computer)");
+
+            int modeChoice;
+            do
+            {
+                Console.Write("Enter the mode number (1 or 2): ");
+            } while (!int.TryParse(Console.ReadLine(), out modeChoice) || modeChoice < 1 || modeChoice > 2);
+
+            switch (modeChoice)
+            {
+                case 1:
+                    againstAI = false;
+                    break;
+                case 2:
+                    againstAI = true;
+                    break;
+            }
+
+            string player1Name, player2Name;
+            Console.Write("Enter Player 1's name: ");
+            player1Name = Console.ReadLine();
+            if (!againstAI)
+            {
+                Console.Write("Enter Player 2's name: ");
+                player2Name = Console.ReadLine();
+            }
+            else
+            {
+                player2Name = "Computer";
+            }
+
+            while (!isGameOver)
+            {
+                Console.Clear(); // clear previous game board for printing the latest gema progress 
+                connect4.DrawBoard();
+
+                if (currentPlayer == aiPlayer && againstAI)
+                {
+                    int column = connect4.GetNextAIMove();
+                    Console.WriteLine($"\n{player2Name} is thinking...");
+                    System.Threading.Thread.Sleep(1000);
+
+                    Console.WriteLine($"\n{player2Name} dropped its piece into column {column + 1}");
+
+                    int row = connect4.GetNextOpenRow(column);
+                    connect4.board[row, column] = currentPlayer;
+
+                    if (connect4.IsWinningMove(row, column))
+                    {
+                        Console.Clear();
+                        connect4.DrawBoard();
+                        Console.WriteLine($"\n{player2Name} wins!");
+                        isGameOver = true;
+                    }
+                    else if (connect4.IsBoardFull())
+                    {
+                        Console.Clear();
+                        connect4.DrawBoard();
+                        Console.WriteLine("\nIt's a tie!");
+                        isGameOver = true;
+                    }
+                    else
+                    {
+                        currentPlayer = 3 - currentPlayer;
+                    }
+                }
+                else
+                {
+                    Console.Write($"\n{GetPlayerName(currentPlayer, player1Name, player2Name)}, choose a column to drop your piece (1-7), or press 'ESC' to exit: ");
+                    var key = Console.ReadKey(true);
+
+                    if (key.Key == ConsoleKey.Escape)
+                    {
+                        break;
+                    }
+
+                    if (int.TryParse(key.KeyChar.ToString(), out int column))
+                    {
+                        column -= 1;
+                        if (!connect4.IsValidMove(column))
+                        {
+                            Console.WriteLine("\nInvalid move. Please try again.");
+                            if (connect4.IsColumnFull(column))
+                            {
+                                Console.WriteLine("\nSelected column is full. Please choose another column.");
+                            }
+                        }
+                        else
+                        {
+                            int row = connect4.GetNextOpenRow(column);
+                            connect4.board[row, column] = currentPlayer;
+
+                            if (connect4.IsWinningMove(row, column))
+                            {
+                                Console.Clear();
+                                connect4.DrawBoard();
+                                Console.WriteLine($"\n{GetPlayerName(currentPlayer, player1Name, player2Name)} wins!");
+                                isGameOver = true;
+                            }
+                            else if (connect4.IsBoardFull())
+                            {
+                                Console.Clear();
+                                connect4.DrawBoard();
+                                Console.WriteLine("\nDraw!");
+                                isGameOver = true;
+                            }
+                            else
+                            {
+                                currentPlayer = 3 - currentPlayer;
+                            }
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("\nInvalid input. Please try again.");
+                    }
+                }
+            }
+
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey(true);
+        }
+
+        private static string GetPlayerName(int currentPlayer, string player1Name, string player2Name)
+        {
+            return currentPlayer == 1 ? player1Name : player2Name;
         }
     }
 }
+
